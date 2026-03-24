@@ -1,0 +1,9 @@
+# write a program to print twinkle twinkle little star poem in python 
+poem = input("press enter to see a poem: ")
+print('''Twinkle, Twinkle, Little Star
+ Twinkle, twinkle, little star,
+ How I wonder what you are!
+ Up above the world so high,
+ Like a diamond in the sky.
+ Twinkle, twinkle, little star,
+ How I wonder what you are!''',poem)
