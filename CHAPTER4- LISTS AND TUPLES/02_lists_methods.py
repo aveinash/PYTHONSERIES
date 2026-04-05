@@ -12,3 +12,7 @@ print(l1)
 
 l1.insert(2,13424) # kahi beech me insert krne k liye we use insert
 print(l1)
+
+value = l1.pop(2)
+print(value)
+print(l1)
