@@ -16,3 +16,9 @@ print(l1)
 value = l1.pop(2)
 print(value)
 print(l1)
+
+l1.remove(4)
+print(l1)
+
+l1.remove(4)
+print(l1)
