@@ -2,6 +2,13 @@
 
 marks = { "shiv":100 ,
          "rohan":200,
-         "vishesh":23}
+         "vishesh":23,
+         0:"value"}
 
-print(marks["rohan"])
+
+#methods
+print(marks.items())
+print(marks.keys())
+print(marks.values())
+marks.update({"shiv":40})
+print(marks)
