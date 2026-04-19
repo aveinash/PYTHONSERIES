@@ -7,8 +7,10 @@ marks = { "shiv":100 ,
 
 
 #methods
-print(marks.items())
-print(marks.keys())
-print(marks.values())
-marks.update({"shiv":40})
+# print(marks.items())   
+# print(marks.keys())
+# print(marks.values())
+
+
+marks.update({"shiv":90 , "avinash":89})
 print(marks)
