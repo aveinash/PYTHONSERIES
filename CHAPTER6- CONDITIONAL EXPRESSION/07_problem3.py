@@ -1,4 +1,4 @@
-
+# write a program to detect spam
 
 p1= "make a lot of money"
 p2= "buy now"
