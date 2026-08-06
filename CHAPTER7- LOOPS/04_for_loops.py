@@ -15,3 +15,5 @@ print("    ")
 l = [12,"two",23,32,1]
 for i in l:
     print(i)
+else:
+    print("done")  # for loop with else used when the loop exhausts!
