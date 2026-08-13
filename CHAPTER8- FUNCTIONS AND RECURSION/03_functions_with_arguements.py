@@ -1,7 +1,8 @@
-def greet(name):
-    print("hello",name)
-greet("avinash")
-greet("mango")
+def greet(name,ending):
+   print("hello" + name)
+   print(ending)
+greet("avinash","hey")
+greet("mango","hey")
     
 
 def add(a,b):
