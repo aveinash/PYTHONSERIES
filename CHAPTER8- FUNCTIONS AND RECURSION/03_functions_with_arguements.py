@@ -7,7 +7,8 @@ greet("mango","hey")
 
 def add(a,b):
     print(a+b)
-add(12,11)
+    return "done"
+a = add(12,11)
     
 
 
