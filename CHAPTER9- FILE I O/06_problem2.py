@@ -1,3 +1,6 @@
+'''write a program to generate multiplication tables
+from 2 to 20 and writw it to the different files place these files
+in a folder for  a 13 year old'''
 import os
 
 def generateTable(n):
